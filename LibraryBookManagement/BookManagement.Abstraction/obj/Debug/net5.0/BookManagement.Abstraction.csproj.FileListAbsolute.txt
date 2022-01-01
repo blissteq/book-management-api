@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Abstraction\bin\Debug\net5.0\BookManagement.Abstraction.deps.json
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Abstraction\bin\Debug\net5.0\BookManagement.Abstraction.dll
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Abstraction\bin\Debug\net5.0\ref\BookManagement.Abstraction.dll
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Abstraction\bin\Debug\net5.0\BookManagement.Abstraction.pdb
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Abstraction\obj\Debug\net5.0\BookManagement.Abstraction.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Abstraction\obj\Debug\net5.0\BookManagement.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Abstraction\obj\Debug\net5.0\BookManagement.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Abstraction\obj\Debug\net5.0\BookManagement.Abstraction.AssemblyInfo.cs
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Abstraction\obj\Debug\net5.0\BookManagement.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Abstraction\obj\Debug\net5.0\BookManagement.Abstraction.dll
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Abstraction\obj\Debug\net5.0\ref\BookManagement.Abstraction.dll
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Abstraction\obj\Debug\net5.0\BookManagement.Abstraction.pdb

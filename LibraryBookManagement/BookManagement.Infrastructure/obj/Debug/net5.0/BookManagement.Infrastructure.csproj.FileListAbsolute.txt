@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Infrastructure\bin\Debug\net5.0\BookManagement.Infrastructure.deps.json
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Infrastructure\bin\Debug\net5.0\BookManagement.Infrastructure.dll
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Infrastructure\bin\Debug\net5.0\ref\BookManagement.Infrastructure.dll
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Infrastructure\bin\Debug\net5.0\BookManagement.Infrastructure.pdb
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Infrastructure\bin\Debug\net5.0\BookManagement.Abstraction.dll
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Infrastructure\bin\Debug\net5.0\BookManagement.Abstraction.pdb
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Infrastructure\obj\Debug\net5.0\BookManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Infrastructure\obj\Debug\net5.0\BookManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Infrastructure\obj\Debug\net5.0\BookManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Infrastructure\obj\Debug\net5.0\BookManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Infrastructure\obj\Debug\net5.0\BookManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Infrastructure\obj\Debug\net5.0\BookManagement.Infrastructure.csproj.CopyComplete
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Infrastructure\obj\Debug\net5.0\BookManagement.Infrastructure.dll
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Infrastructure\obj\Debug\net5.0\ref\BookManagement.Infrastructure.dll
+C:\Users\Dell\source\repos\LibraryBookManagementAPI\LibraryBookManagement\BookManagement.Infrastructure\obj\Debug\net5.0\BookManagement.Infrastructure.pdb
